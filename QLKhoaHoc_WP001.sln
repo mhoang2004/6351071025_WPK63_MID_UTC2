@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKhoaHoc_WP001", "QLKhoaHoc_WP001.csproj", "{BD6DD5C7-EA49-4F7B-BEB6-775FBD6784EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6DD5C7-EA49-4F7B-BEB6-775FBD6784EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6DD5C7-EA49-4F7B-BEB6-775FBD6784EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6DD5C7-EA49-4F7B-BEB6-775FBD6784EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6DD5C7-EA49-4F7B-BEB6-775FBD6784EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8ABAFF-97CC-4D7D-98A8-3328870E1ECA}
+	EndGlobalSection
+EndGlobal
